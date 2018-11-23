@@ -1,8 +1,8 @@
 # CBNUOpenSource
 CBNU Open Source Repo
 
-## 참가자 명단
-* 소현섭
+## List
+* so
 * 강산
 * 원경식
 
